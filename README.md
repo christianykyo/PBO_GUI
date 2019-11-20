@@ -49,4 +49,4 @@
 ![Alt Text](https://github.com/christianykyo/PBO_GUI/blob/master/GUI%20UJI%20KEBOLEHAN%20D.png)
 
 
-# ~ ~ THANK YOU ~ ~
+# ~ ~ 감사합니다 ~ ~
